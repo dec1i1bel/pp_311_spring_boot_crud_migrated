@@ -1,3 +1,4 @@
+# Spring Boot CRUD app
 ## Настройка подключения к БД
 1. src/main/resources/application.properties.example скопировать в той же папке, копию переименовать в application.properties. Файл .example не меняем и не удаляем.
 2. в файле application.properties значения переменных db.name, db.username, db.password заменить на свои
