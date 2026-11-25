@@ -10,7 +10,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import web.model.User;
 import web.service.UserService;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 @Controller
 public class UserController {
